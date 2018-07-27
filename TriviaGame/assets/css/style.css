@@ -1,10 +1,10 @@
 body{
-	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwlhxs5gueEnbTtnMlcSYCyu1XPgZ76KbjU5QF3oGYn7h3gAY);
+	background-image: url("../images/screenshot1.png");
 	text-align: center;
 }
 
 .text-muted{
-	color: blue;
+	color: white;
 }
 .last-seconds{
   color: red;
