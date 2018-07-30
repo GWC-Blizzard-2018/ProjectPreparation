@@ -23,8 +23,7 @@ var trivia = {
     q3: 'Which type of schooling is normally cheaper?',
     q4: 'How is a Private School different from a Public school?',
     q5: "Normally, how many years is Community College?",
-    q6: 'What is a loan?',
-    q7: "Who thinks they're always the last to find out everything?"
+    q6: 'What is a loan?'
   },
   options: {
     q1: ['Cheaper', 'Not as intimidating', 'Experience new lifestyles', 'Easier to get into'],
@@ -32,8 +31,7 @@ var trivia = {
     q3: ['University', 'Community College', 'Both are cheap', 'Both are expensive'],
     q4: ['Private schools are more expensive', 'Private schools are often less inclusive', 'Private schools have more clubs and societies', 'Private schools have a larger acceptance rate'],
     q5: ['2 years','4 year','3 years','However long it takes'],
-    q6: ['Financial aid that doesn’t have to be repaid','Aid for military service or for being the spouse or child of a veteran','Vouchers for current and former foster care youth','Borrowed money for school that must be repaid, with interest'],
-    q7: ['Ross', 'Phoebe', 'Monica','Chandler']
+    q6: ['Financial aid that doesn’t have to be repaid','Aid for military service or for being the spouse or child of a veteran','Vouchers for current and former foster care youth','Borrowed money for school that must be repaid, with interest']
   },
   answers: {
     q1: 'Experience new lifestyles',
@@ -41,8 +39,7 @@ var trivia = {
     q3: 'Community College',
     q4: 'Private schools are more expensive',
     q5: '2 years',
-    q6: 'Borrowed money for school that must be repaid, with interest',
-    q7: 'Phoebe'
+    q6: 'Borrowed money for school that must be repaid, with interest'
   },
   // trivia methods
   // method to initialize game
